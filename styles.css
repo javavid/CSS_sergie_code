@@ -1,0 +1,68 @@
+/*p{
+    font-family: "Henny Penny", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}*/
+
+/*@media screen and (max-width: 700px){
+
+
+}*/
+    
+
+
+/*ul{
+    list-style-image: url(/img/icons8-super-mario-24.png);
+}*/
+
+
+/*//// responsive/////*/
+/*.contenedor{
+    overflow: auto;
+}
+
+.leftside{
+    float: none;
+    width: auto;
+}
+
+.texto{
+    position: absolute;
+    top: 0;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+@media (max-width:545px){
+    
+    .leftside{
+        float: left;
+        width: 300px;
+    }
+
+    img{
+        width: 300px;
+    }
+    
+    .texto{
+        position: relative;
+    }  
+}*/
+
+/*///// flexbox/////
+.flex-container{
+    display: flex;
+    background-color: cadetblue;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+}
+
+.flex-container > div {
+    background-color: burlywood;
+    margin: 10px;
+    padding: 20px;
+    font-size: 1.5em;
+    width: 80px;
+}*/
